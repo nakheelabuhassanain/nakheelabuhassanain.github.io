@@ -7,6 +7,7 @@ ORG:Nakheel AbuHassanain;
 EMAIL;type=INTERNET;type=WORK;type=pref:nakheel.abuhasanain@gmail.com
 TEL;type=CELL;type=VOICE;type=pref:39622264
 item1.ADR;type=HOME:;Road 28\, Block 245\, House 231;;Arad;;;Bahrain
+item1.URL;type=INTERNET,type=HOME:www.nakheelabuhassanain.com
 item1.X-ABADR:gb
 X-SOCIALPROFILE;type=Instagram:http://instagram.com/nakheel_abuhassanain
 X-INSTAGRAM:nakheel_abuhassanain
